@@ -14,5 +14,4 @@ Please refer to the following for related packages and versions.
     - Keras                   2.3.1
     - matplotlib              3.3.2
     - numpy                   1.19.2
-    - pandas                  1.1.3
     - tensorflow              2.1.0
