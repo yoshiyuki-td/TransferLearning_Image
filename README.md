@@ -6,7 +6,7 @@ The comments are written in Japanese, so if you cannot read them, please transla
 
 Please refer to the following for related packages and versions.
 
-## PC pattern without GPU
+## PC without GPU
 
 - Package and version
     - Python                  3.7.9
